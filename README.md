@@ -44,6 +44,7 @@
 | <img src="img/icon_numbers_large_2x.jpg" width="52"/> | Numbers | com.apple.Numbers |
 | <img src="img/icon_pages_large_2x.jpg" width="52"/> | Pages | com.apple.Pages |
 | <img src="img/icon_phone_large_2x.jpg" width="52"/> | Phone | com.apple.mobilephone |
+| | Photo Booth | com.apple.Photo-Booth |
 | <img src="img/icon_photos_large_2x.jpg" width="52"/> | Photos | com.apple.mobileslideshow |
 | <img src="img/icon_podcasts_large_2x.jpg" width="52"/> | Podcasts | com.apple.podcasts |
 | <img src="img/icon_reminders_large_2x.jpg" width="52"/> | Reminders | com.apple.reminders |
