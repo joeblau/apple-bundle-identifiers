@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Operating%20System-iOS-blue.svg"/>
-  <img src="https://img.shields.io/badge/Build-10.1-blue.svg"/>
+  <img src="https://img.shields.io/badge/Build-10.2-blue.svg"/>
   <img src="https://img.shields.io/badge/-Bundle%20Identifiers-blue.svg"/>
   <img src="https://img.shields.io/github/license/joeblau/apple-bundle-identifiers.svg"/>
 </p>
@@ -55,6 +55,7 @@
 | <img src="img/icon_stocks_large_2x.jpg" width="52"/> | Stocks | com.apple.stocks |
 | <img src="img/icon_tips_large_2x.jpg" width="52"/> | Tips | com.apple.tips |
 | <img src="img/icon_trailers_large_2x.jpg" width="52"/> | Trailers | com.apple.movietrailers |
+| <img src="img/icon_tv_large_2x.jpg" width="52"/> | TV | com.apple.tv |
 | <img src="img/icon_videos_large_2x.jpg" width="52"/> | Videos | com.apple.videos |
 | <img src="img/icon_voicememo_large_2x.jpg" width="52"/> | Voice Memos |  com.apple.VoiceMemos |
 | <img src="img/icon_wallet_large_2x.jpg" width="52"/> | Wallet | com.apple.Passbook |
