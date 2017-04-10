@@ -3,7 +3,7 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Operating%20System-iOS-blue.svg"/>
-  <img src="https://img.shields.io/badge/Build-10.2-blue.svg"/>
+  <img src="https://img.shields.io/badge/Build-10.3.1-blue.svg"/>
   <img src="https://img.shields.io/badge/-Bundle%20Identifiers-blue.svg"/>
   <img src="https://img.shields.io/github/license/joeblau/apple-bundle-identifiers.svg"/>
 </p>
@@ -16,6 +16,7 @@
 | <img src="img/icon_calculator_large_2x.jpg" width="52"/> | Calculator | com.apple.calculator |
 | <img src="img/icon_calendar_large_2x.jpg" width="52"/> | Calendar | com.apple.mobilecal |
 | <img src="img/icon_camera_large_2x.jpg" width="52"/> | Camera | com.apple.camera |
+| <img src="img/icon_clips_large_2x.jpg" width="52"/> | Clips | com.apple.clips |
 | <img src="img/icon_clock_large_2x.jpg" width="52"/> | Clock | com.apple.mobiletimer |
 | <img src="img/icon_compass_large_2x.jpg" width="52"/> | Compass | com.apple.compass |
 | <img src="img/icon_contacts_large_2x.jpg" width="52"/> | Contacts | com.apple.MobileAddressBook |
