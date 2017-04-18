@@ -61,3 +61,4 @@
 | <img src="img/icon_voicememo_large_2x.jpg" width="52"/> | Voice Memos |  com.apple.VoiceMemos |
 | <img src="img/icon_wallet_large_2x.jpg" width="52"/> | Wallet | com.apple.Passbook |
 | <img src="img/icon_weather_large_2x.jpg" width="52"/> | Weather | com.apple.weather |
+| <img src="img/icon_wwdc_large_2x.jpg" width="52"/> | WWDC | com.apple.wwdc |
