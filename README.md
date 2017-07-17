@@ -52,7 +52,7 @@
 | <img src="img/icon_phone_large_2x.jpg" width="52"/> | Phone | com.apple.mobilephone |
 | <img src="img/icon_photo-booth_large_2x.jpg" width="52"/> | Photo Booth | com.apple.Photo-Booth |
 | <img src="img/icon_photos_large_2x.jpg" width="52"/> | Photos | com.apple.mobileslideshow |
-| <img src="img/playgorunds-175x175.jpg" width="52"/> | Playgrounds | com.apple.Playgrounds |
+| <img src="img/playgrounds-175x175.jpg" width="52"/> | Playgrounds | com.apple.Playgrounds |
 | <img src="img/icon_podcasts_large_2x.jpg" width="52"/> | Podcasts | com.apple.podcasts |
 | <img src="img/icon_reminders_large_2x.jpg" width="52"/> | Reminders | com.apple.reminders |
 | <img src="img/icon_remote_large_2x.jpg" width="52"/> | Remote | com.apple.Remote |
