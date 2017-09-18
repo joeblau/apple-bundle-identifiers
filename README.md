@@ -26,7 +26,7 @@
 | <img src="" width="52"/> | Feedback | 🎯 |
 | <img src="img/icon_find_my_friends_large_2x.jpg" width="52"/> | Find Friends | com.apple.mobileme.fmf1 |
 | <img src="img/icon_find_my_phone_large_2x.jpg" width="52"/> | Find iPhone | com.apple.mobileme.fmip1 |
-| <img src="img/files-128x128.jpg" width="52"/> | Files | com.apple.DocumentManager |
+| <img src="img/files-128x128.jpg" width="52"/> | Files | com.apple.DocumentsApp |
 | <img src="img/icon_gamecenter_large_2x.jpg" width="52"/> | Game Center | com.apple.gamecenter |
 | <img src="img/icon_garageband_large_2x.jpg" width="52"/> | GarageBand | com.apple.mobilegarageband |
 | <img src="img/icon_health_large_2x.jpg" width="52"/> | Health | com.apple.Health |
