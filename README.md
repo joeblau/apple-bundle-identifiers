@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="img/ios11_icon_large_2x.png" width="110"/>
+  <img src="img/ios-12-96x96_2x.png" width="110"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Operating%20System-iOS-blue.svg"/>
-  <img src="https://img.shields.io/badge/Build-11.0-blue.svg"/>
+  <img src="https://img.shields.io/badge/Build-12.0-blue.svg"/>
   <img src="https://img.shields.io/badge/-Bundle%20Identifiers-blue.svg"/>
   <img src="https://img.shields.io/github/license/joeblau/apple-bundle-identifiers.svg"/>
 </p>
@@ -30,6 +30,7 @@
 | <img src="img/icon_gamecenter_large_2x.jpg" width="52"/> | Game Center | com.apple.gamecenter |
 | <img src="img/icon_garageband_large_2x.jpg" width="52"/> | GarageBand | com.apple.mobilegarageband |
 | <img src="img/icon_health_large_2x.jpg" width="52"/> | Health | com.apple.Health |
+| <img src="img/icon_heart_study_large_2x.jpg" width="52"/> | Apple Heart Study | com.apple.Antimony |
 | <img src="img/icon_homekit_large_2x.jpg" width="52"/> | Home | com.apple.Home |
 | <img src="img/icon_ibooks_large_2x.jpg" width="52"/> | iBooks | com.apple.iBooks |
 | <img src="img/icon_icloud_drive_large_2x.jpg" width="52"/> | iCloud Drive | com.apple.iCloudDriveApp |
@@ -42,6 +43,7 @@
 | <img src="img/logic-remote-175x175.jpg" width="52"/> | Logic Remote | com.apple.musicapps.remote |
 | <img src="img/icon_mail_large_2x.jpg" width="52"/> | Mail | com.apple.mobilemail |
 | <img src="img/icon_maps_large_2x.jpg" width="52"/> | Maps | com.apple.Maps |
+| <img src="img/icon_" width="52"/> | Measure | com.apple.measure |
 | <img src="img/icon_messages_large_2x.jpg" width="52"/> | Messages | com.apple.MobileSMS |
 | <img src="img/icon_music_large_2x.jpg" width="52"/> | Music | com.apple.Music |
 | <img src="img/icon_music-memos_large_2x.jpg" width="52"/> | Music Memos | com.apple.musicmemos |
@@ -58,13 +60,13 @@
 | <img src="img/icon_remote_large_2x.jpg" width="52"/> | Remote | com.apple.Remote |
 | <img src="img/icon_safari_large_2x.jpg" width="52"/> | Safari | com.apple.mobilesafari |
 | <img src="img/icon_settings_large_2x.jpg" width="52"/> | Settings | com.apple.Preferences |
-| <img src="img/icon_siri_large_2x.jpg" width="52"/> | Siri | com.apple.SiriViewService |
+| <img src="img/icon_siri_large_2x.png" width="52"/> | Siri | com.apple.SiriViewService |
 | <img src="img/icon_stocks_large_2x.jpg" width="52"/> | Stocks | com.apple.stocks |
 | <img src="img/icon_tips_large_2x.jpg" width="52"/> | Tips | com.apple.tips |
 | <img src="img/icon_trailers_large_2x.jpg" width="52"/> | Trailers | com.apple.movietrailers |
 | <img src="img/icon_tv_large_2x.jpg" width="52"/> | TV | com.apple.tv |
 | <img src="img/icon_videos_large_2x.jpg" width="52"/> | Videos | com.apple.videos |
-| <img src="img/icon_voicememo_large_2x.jpg" width="52"/> | Voice Memos |  com.apple.VoiceMemos |
+| <img src="img/icon_voicememo_large_2x.png" width="52"/> | Voice Memos |  com.apple.VoiceMemos |
 | <img src="img/icon_wallet_large_2x.jpg" width="52"/> | Wallet | com.apple.Passbook |
 | <img src="img/icon_weather_large_2x.jpg" width="52"/> | Weather | com.apple.weather |
 | <img src="img/icon_wwdc_large_2x.jpg" width="52"/> | WWDC | com.apple.wwdc |
