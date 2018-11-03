@@ -23,7 +23,7 @@
 | <img src="img/icon_compass_large_2x.png" width="52"/> | Compass | com.apple.compass |
 | <img src="img/icon_contacts_large_2x.png" width="52"/> | Contacts | com.apple.MobileAddressBook |
 | <img src="img/icon_facetime_large_2x.png" width="52"/> | FaceTime | com.apple.facetime |
-| <img src="" width="52"/> | Feedback | 🎯 |
+| <img src="img/icon_feedback_assistant_large_2x.png" width="52"/> | Feedback Assistant | com.apple.appleseed.FeedbackAssistant |
 | <img src="img/icon_find_my_friends_large_2x.png" width="52"/> | Find Friends | com.apple.mobileme.fmf1 |
 | <img src="img/icon_find_my_phone_large_2x.png" width="52"/> | Find iPhone | com.apple.mobileme.fmip1 |
 | <img src="img/icon_files_large_2x.png" width="52"/> | Files | com.apple.DocumentsApp |
