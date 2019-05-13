@@ -36,7 +36,7 @@
 | <img src="img/icon_icloud_drive_large_2x.png" width="52"/> | iCloud Drive | com.apple.iCloudDriveApp |
 | <img src="img/icon_imovie_large_2x.png" width="52"/> | iMovie | com.apple.iMovie |
 | <img src="img/icon_itunes_connect_large_2x.jpg" width="52"/> | iTunes Connect | com.apple.itunesconnect.mobile |
-| <img src="img/icon_itunes_remote_large_2x.png" width="52"/> | iTunes Remote | com.apple.TVRemote |
+| <img src="https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/51/06/cc/5106ccc0-403d-6df6-3439-d18f8fc6fbb5/source/512x512bb.jpg" width="52"/> | Apple TV Remote | com.apple.TVRemote |
 | <img src="img/icon_itunes_store_large_2x.png" width="52"/> | iTunes Store |  com.apple.MobileStore |
 | <img src="img/icon_itunesu_large_2x.png" width="52"/> | iTunes U | com.apple.itunesu |
 | <img src="img/icon_keynote_large_2x.png" width="52"/> | Keynote | com.apple.Keynote |
