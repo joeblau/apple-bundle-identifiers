@@ -10,6 +10,7 @@
 
 | Icon | App | Bundle Identifier |
 | --- | --- | --- |
+| <img src="img/icon_com.apple.Fitness.jpg" width="52"/> | Activity |  com.apple.Fitness |
 | <img src="img/icon_app_store_large_2x.png" width="52"/> | App Store |  com.apple.AppStore |
 | <img src="img/icon_apple_store_large_2x.png" width="52"/> | Apple Store | com.apple.store.Jolly |
 | <img src="img/support-175x175.jpg" width="52"/> | Apple Support | com.apple.supportapp |
