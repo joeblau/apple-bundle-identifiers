@@ -14,6 +14,7 @@
 | <img src="img/icon_app_store_large_2x.png" width="52"/> | App Store |  com.apple.AppStore |
 | <img src="img/icon_apple_store_large_2x.png" width="52"/> | Apple Store | com.apple.store.Jolly |
 | <img src="img/support-175x175.jpg" width="52"/> | Apple Support | com.apple.supportapp |
+| <img src="img/icon_apple_tv_remote_large_2x.jpg" width="52"/> | Apple TV Remote | com.apple.TVRemote |
 | <img src="img/icon_applewatch_large_2x.png" width="52"/> | Apple Watch | com.apple.Bridge |
 | <img src="img/icon_calculator_large_2x.png" width="52"/> | Calculator | com.apple.calculator |
 | <img src="img/icon_calendar_large_2x.png" width="52"/> | Calendar | com.apple.mobilecal |
@@ -38,7 +39,6 @@
 | <img src="img/icon_icloud_drive_large_2x.png" width="52"/> | iCloud Drive | com.apple.iCloudDriveApp |
 | <img src="img/icon_imovie_large_2x.png" width="52"/> | iMovie | com.apple.iMovie |
 | <img src="img/icon_itunes_connect_large_2x.jpg" width="52"/> | iTunes Connect | com.apple.itunesconnect.mobile |
-| <img src="img/icon_itunes_remote_large_2x.png" width="52"/> | iTunes Remote | com.apple.TVRemote |
 | <img src="img/icon_itunes_store_large_2x.png" width="52"/> | iTunes Store |  com.apple.MobileStore |
 | <img src="img/icon_itunesu_large_2x.png" width="52"/> | iTunes U | com.apple.itunesu |
 | <img src="img/icon_keynote_large_2x.png" width="52"/> | Keynote | com.apple.Keynote |
