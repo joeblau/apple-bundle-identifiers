@@ -27,6 +27,7 @@
 | <img src="img/icon_feedback_assistant_large_2x.png" width="52"/> | Feedback Assistant | com.apple.appleseed.FeedbackAssistant |
 | <img src="img/icon_find_my_friends_large_2x.png" width="52"/> | Find Friends | com.apple.mobileme.fmf1 |
 | <img src="img/icon_find_my_phone_large_2x.png" width="52"/> | Find iPhone | com.apple.mobileme.fmip1 |
+| <img src="img/icon_find_my_large_2x.jpg" width="52"/> | Find My (iOS 13) | com.apple.findmy |
 | <img src="img/icon_files_large_2x.png" width="52"/> | Files | com.apple.DocumentsApp |
 | <img src="img/icon_gamecenter_large_2x.jpg" width="52"/> | Game Center | com.apple.gamecenter |
 | <img src="img/icon_garageband_large_2x.png" width="52"/> | GarageBand | com.apple.mobilegarageband |
@@ -62,6 +63,7 @@
 | <img src="img/icon_safari_large_2x.png" width="52"/> | Safari | com.apple.mobilesafari |
 | <img src="img/icon_settings_large_2x.png" width="52"/> | Settings | com.apple.Preferences |
 | <img src="img/icon_shortcuts_large_2x.png" width="52"/> | Shortcuts | is.workflow.my.app |
+| <img src="img/icon_shortcuts_large_2x.png" width="52"/> | Shortcuts (iOS 13) | com.apple.shortcuts |
 | <img src="img/icon_siri_large_2x.png" width="52"/> | Siri | com.apple.SiriViewService |
 | <img src="img/icon_stocks_large_2x.png" width="52"/> | Stocks | com.apple.stocks |
 | <img src="img/icon_tips_large_2x.png" width="52"/> | Tips | com.apple.tips |
