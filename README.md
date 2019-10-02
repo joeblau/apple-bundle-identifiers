@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="img/ios-12-96x96_2x.png" width="110"/>
+  <img src="img/ios-13-128x128_2x.png" width="110"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Operating%20System-iOS-blue.svg"/>
-  <img src="https://img.shields.io/badge/Build-12.0-blue.svg"/>
+  <img src="https://img.shields.io/badge/Build-13.0-blue.svg"/>
   <img src="https://img.shields.io/badge/-Bundle%20Identifiers-blue.svg"/>
   <img src="https://img.shields.io/github/license/joeblau/apple-bundle-identifiers.svg"/>
 </p>
