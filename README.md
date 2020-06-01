@@ -74,6 +74,7 @@
 | <img src="img/icon_wallet_large_2x.png" width="52"/> | Wallet | com.apple.Passbook |
 | <img src="img/icon_weather_large_2x.png" width="52"/> | Weather | com.apple.weather |
 | <img src="img/icon_wwdc_large_2x.jpg" width="52"/> | WWDC | com.apple.wwdc |
+| <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/55/64/6a/55646a39-10b0-c4fb-df7f-dc6febbf4a7b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png" width="52"/> | Apple TV | com.apple.tv |
 
 
 
