@@ -10,7 +10,6 @@
 
 | Icon                                                             | App                 | Bundle Identifier                     |
 | ---------------------------------------------------------------- | ------------------- | ------------------------------------- |
-| <img src="img/icon_com.apple.Fitness.jpg" width="52"/>           | Activity            | com.apple.Fitness                     |
 | <img src="img/icon_app_store_large_2x.png" width="52"/>          | App Store           | com.apple.AppStore                    |
 | <img src="img/icon_apple_store_large_2x.png" width="52"/>        | Apple Store         | com.apple.store.Jolly                 |
 | <img src="img/support-175x175.jpg" width="52"/>                  | Apple Support       | com.apple.supportapp                  |
@@ -22,6 +21,7 @@
 | <img src="img/classroom-175x175.jpg" width="52"/>                | Classroom           | com.apple.classroom                   |
 | <img src="img/icon_clips_large_2x.png" width="52"/>              | Clips               | com.apple.clips                       |
 | <img src="img/icon_clock_large_2x.png" width="52"/>              | Clock               | com.apple.mobiletimer                 |
+| <img src="img/icon_code_scanner_large_2x.png" width="52"/>       | Code Scanner        | com.apple.BarcodeScanner              |
 | <img src="img/icon_compass_large_2x.png" width="52"/>            | Compass             | com.apple.compass                     |
 | <img src="img/icon_contacts_large_2x.png" width="52"/>           | Contacts            | com.apple.MobileAddressBook           |
 | <img src="img/icon_facetime_large_2x.png" width="52"/>           | FaceTime            | com.apple.facetime                    |
@@ -30,6 +30,8 @@
 | <img src="img/icon_find_my_friends_large_2x.png" width="52"/>    | Find Friends        | com.apple.mobileme.fmf1               |
 | <img src="img/icon_find_my_phone_large_2x.png" width="52"/>      | Find iPhone         | com.apple.mobileme.fmip1              |
 | <img src="img/icon_find_my_large_2x.jpg" width="52"/>            | Find My (iOS 13+)   | com.apple.findmy                      |
+| <img src="img/icon_com.apple.Fitness.jpg" width="52"/>           | Fitness             | com.apple.Fitness                     |
+| <img src="img/icon_freeform_large_2x.png" width="52"/>           | Freeform            | com.apple.freeform                    |
 | <img src="img/icon_gamecenter_large_2x.jpg" width="52"/>         | Game Center         | com.apple.gamecenter                  |
 | <img src="img/icon_garageband_large_2x.png" width="52"/>         | GarageBand          | com.apple.mobilegarageband            |
 | <img src="img/icon_health_large_2x.png" width="52"/>             | Health              | com.apple.Health                      |
